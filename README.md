@@ -1,6 +1,6 @@
 # Trabalho prático de TESI Banco Tkinter (N1) Pablo Cauã & Pedro Soares
 
-- ***Repository:***  Sistema de Gerenciamento de Bancos em Tkinter feito para trabalho apresentando para a disciplina de TESI do curso Sistemas de Informação da Universidade Federal do Estado do Acre (UFAC). 
+- ***Repository:***  Sistema de Gerenciamento de Bancos em Tkinter feito para trabalho apresentando para a disciplina de TESI do curso Sistemas de Informação da Universidade Federal do Estado do Acre (UFAC). Para uma documentação detalhada do projeto acesse o [UPDATE.md](https://github.com/Darkyelino/Sistema-de-Gerenciamento-de-Bancos-em-Tkinter/blob/main/updates/UPDATES.md)
 - ***Data de entrega:*** 16/09/2024
 
 > [!NOTE]

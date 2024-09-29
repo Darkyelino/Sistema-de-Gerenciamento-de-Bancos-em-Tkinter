@@ -1,0 +1,50 @@
+[
+    {
+        "numero_banco": "9852",
+        "nome_banco": "Nubank",
+        "taxa_juro": "3",
+        "desconto": "6"
+    },
+    {
+        "numero_banco": "3490",
+        "nome_banco": "Banco do Brasil",
+        "taxa_juro": "2",
+        "desconto": "3"
+    },
+    {
+        "numero_banco": "1765",
+        "nome_banco": "Caixa Econ\u00f4mica Federal",
+        "taxa_juro": "4",
+        "desconto": "4"
+    },
+    {
+        "numero_banco": "4567",
+        "nome_banco": "Ita\u00fa",
+        "taxa_juro": "7",
+        "desconto": "5"
+    },
+    {
+        "numero_banco": "8301",
+        "nome_banco": "Santander",
+        "taxa_juro": "1",
+        "desconto": "1"
+    },
+    {
+        "numero_banco": "5584",
+        "nome_banco": "Bradesco",
+        "taxa_juro": "8",
+        "desconto": "7"
+    },
+    {
+        "numero_banco": "0652",
+        "nome_banco": "Banco Premium",
+        "taxa_juro": "10",
+        "desconto": "0"
+    },
+    {
+        "numero_banco": "0108",
+        "nome_banco": "Cibely Bank",
+        "taxa_juro": "100",
+        "desconto": "0"
+    }
+]

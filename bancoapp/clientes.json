@@ -1,0 +1,68 @@
+[
+    {
+        "numero": "1",
+        "nome": "Abel",
+        "endereco": "Rua da Lua",
+        "cpf": "123.456.789-00"
+    },
+    {
+        "numero": "2",
+        "nome": "Pablo",
+        "endereco": "Avenida dos Gatos Pretos",
+        "cpf": "987.654.321-00"
+    },
+    {
+        "numero": "3",
+        "nome": "Clara",
+        "endereco": "Travessa da Barbie",
+        "cpf": "777.777.777-77"
+    },
+    {
+        "numero": "4",
+        "nome": "Mayara",
+        "endereco": "Viela dos Pandas",
+        "cpf": "111.222.333-44"
+    },
+    {
+        "numero": "5",
+        "nome": "Pedro",
+        "endereco": "Rua do Aranha",
+        "cpf": "999.888.777-66"
+    },
+    {
+        "numero": "6",
+        "nome": "Mirelle",
+        "endereco": "Avenida do A\u00e7a\u00ed",
+        "cpf": "555.555.555-55"
+    },
+    {
+        "numero": "7",
+        "nome": "Andr\u00e9 Gustavo",
+        "endereco": "Travessa dos Motoqueiro",
+        "cpf": "000.000.000-00"
+    },
+    {
+        "numero": "8",
+        "nome": "Rafael",
+        "endereco": "Rua do Vasco da Gama",
+        "cpf": "111.111.111-11"
+    },
+    {
+        "numero": "9",
+        "nome": "Gleice",
+        "endereco": "Avenida do TDAH",
+        "cpf": "222.222.222-22"
+    },
+    {
+        "numero": "10",
+        "nome": "John",
+        "endereco": "Viela da Escurid\u00e3o",
+        "cpf": "333.333.333-33"
+    },
+    {
+        "numero": "11",
+        "nome": "William",
+        "endereco": "Travessa do Volei",
+        "cpf": "444.444.444-44"
+    }
+]

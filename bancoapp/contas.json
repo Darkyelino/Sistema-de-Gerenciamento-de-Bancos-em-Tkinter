@@ -1,0 +1,44 @@
+[
+    {
+        "numero": "1",
+        "titular": "Abel",
+        "saldo": 1000.0,
+        "tipo": "Conta Poupan\u00e7a",
+        "banco": "Banco Premium"
+    },
+    {
+        "numero": "2",
+        "titular": "Andr\u00e9 Gustavo",
+        "saldo": 300.0,
+        "tipo": "Conta Corrente",
+        "banco": "Bradesco"
+    },
+    {
+        "numero": "3",
+        "titular": "Rafael",
+        "saldo": 4584.68,
+        "tipo": "Conta Poupan\u00e7a",
+        "banco": "Banco do Brasil"
+    },
+    {
+        "numero": "4",
+        "titular": "Gleice",
+        "saldo": 1687.04,
+        "tipo": "Conta Corrente",
+        "banco": "Ita\u00fa"
+    },
+    {
+        "numero": "5",
+        "titular": "Pablo",
+        "saldo": 10000.0,
+        "tipo": "Conta Poupan\u00e7a",
+        "banco": "Cibely Bank"
+    },
+    {
+        "numero": "6",
+        "titular": "Clara",
+        "saldo": 5.0,
+        "tipo": "Conta Corrente",
+        "banco": "Nubank"
+    }
+]
